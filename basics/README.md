@@ -4,7 +4,7 @@
   
 <h1> Readme Template </h1>
 
-> This Script shows the current path of your folder.
+> Script that shows the current path of your folder.
 
  
 
