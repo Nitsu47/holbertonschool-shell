@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp shcool hello/holberton-shell/permissions
+chgrp shcool hello
